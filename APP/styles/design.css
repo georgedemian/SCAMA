@@ -61,3 +61,16 @@ h1{ color: #97a7d8;}
   border: 5px solid #b4630a;
   position: static;
 }
+
+.topcoat-list{
+	padding:0;
+	margin:0;
+	font:inherit;
+	color:inherit;
+	background:transparent;
+	border:0;cursor:default;
+	-webkit-user-select:none;
+	-moz-user-select:none;
+	-ms-user-select:none;
+	user-select:none;
+	overflow:auto;-webkit-overflow-scrolling:touch}
