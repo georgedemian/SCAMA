@@ -138,7 +138,7 @@ if (isset($_SESSION['logged'])) {// volvemos a revisar si la sesion esta conecta
 
 </div>     
  <footer class="footer">
-        <p>&copy; Company 2014</p>
+        <p>&copy; Company 2016</p>
       </footer>
 
 </body>
